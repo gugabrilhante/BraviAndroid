@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#343438</color>
+    <color name="colorPrimaryDark">#343438</color>
+    <color name="colorAccent">#686868</color>
+    <color name="gray">#686868</color>
+    <color name="mainTextView">#3977B5</color>
+    <color name="secondTextView">#343438</color>
+    <color name="azul_forte">#004c8c</color>
+    <color name="white">#ffffff</color>
+    <color name="azul_um">#58a5f0</color>
+</resources>

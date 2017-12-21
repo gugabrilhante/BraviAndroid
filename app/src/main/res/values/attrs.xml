@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="GustavoActionBar">
+        <attr name="text" format="string"/>
+        <attr name="backEnabled" format="boolean"/>
+        <attr name="rightEnabled" format="boolean"/>
+        <attr name="rightButtonIcon" format="integer"/>
+    </declare-styleable>
+
+
+    <declare-styleable name="GustavoSearchFloatingBar">
+        <attr name="hint" format="string"/>
+        <attr name="requestFocus" format="boolean"/>
+    </declare-styleable>
+
+</resources>
