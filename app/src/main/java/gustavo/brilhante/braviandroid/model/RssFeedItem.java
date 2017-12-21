@@ -33,7 +33,7 @@ public class RssFeedItem implements Serializable {
         return content;
     }
 
-    @Element(name = "title")
+    @Element(name = "title", required = false)
     private String title;
 
     @Element(name = "content", required = false)
@@ -49,7 +49,7 @@ public class RssFeedItem implements Serializable {
     @Text(required = false)
     String descripcion;
 
-    @Element(name = "pubDate")
+    @Element(name = "pubDate", required = false)
     private String publicationDate;
 
 
